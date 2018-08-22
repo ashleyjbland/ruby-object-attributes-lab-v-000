@@ -15,5 +15,3 @@ class Dog
     @nbreed
   end
 end
-
-    
